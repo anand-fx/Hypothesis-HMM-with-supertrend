@@ -1,0 +1,7 @@
+requirements 
+
+pandas 
+numpy
+matplotlib
+scipy
+hmmlearn
